@@ -1,0 +1,8 @@
+Raspberry Pi GPIO:
+  5V  -> VCC (HC-SR04)
+  GND -> GND (HC-SR04, LEDs, Buzzer)
+  GPIO23 -> TRIG
+  GPIO24 -> ECHO
+  GPIO17 -> Red LED (+ resistor)
+  GPIO27 -> Yellow LED (+ resistor)
+  GPIO18 -> Buzzer
